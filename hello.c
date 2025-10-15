@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 int main(){
- puts("Hello, world!");
+ if(printf("%s\n","Hello, world!")==EOF){
+ return EXIT_FAILURE;
+ }
  return EXIT_SUCCESS;
 }

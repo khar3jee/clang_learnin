@@ -4,3 +4,13 @@
 #.jekyll-cache/
 #.jekyll-metadata
 ## Add anything that you don't want committed
+# Vim
+*~
+*.swo
+*.swp
+
+### VS Code ###
+.vscode/
+ 
+### Mac OS ###
+.DS_Store
