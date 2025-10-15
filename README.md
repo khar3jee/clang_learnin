@@ -3,7 +3,7 @@
  <img width=150px height=150px src="./assets/placeholder-logo.png" alt="Placeholder logo"></a>
 </p>
 
-<h3 align="center">Personal Project Templates</h3>
+<h3 align="center">C and CPP Practice repo</h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Template Repository for my personal projects
+<p align="center"> C and CPP practice repo
     <br> 
 </p>
 
@@ -29,7 +29,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## About <a name = "about"></a>
-Template Repository for my personal projects
+I'm just working through a couple books and tools, to learn C and practice reverse engineering with Ghidra. Books so fair include Effective C 2e. and Hacking 2e.
 
 ## Usage <a name="usage"></a>
 
